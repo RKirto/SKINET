@@ -10,9 +10,12 @@
 
   <ItemGroup>
     <None Remove="Data\" />
+    <None Remove="Data\DB\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="Data\DB" />
+    <Folder Include="Data\DB\" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>

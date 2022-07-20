@@ -16,6 +16,7 @@
     <Folder Include="Data\" />
     <Folder Include="Data\DB" />
     <Folder Include="Data\DB\" />
+    <Folder Include="Data\SeedData" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
